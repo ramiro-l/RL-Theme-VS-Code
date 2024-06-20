@@ -1,0 +1,27 @@
+{
+  "name": "vscode-ramiro-l-dark-theme",
+  "displayName": "Ramiro L Dark Theme",
+  "publisher": "ramirp-l",
+  "description": "Ramiro L Dark Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ramiro-l",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pitch-black-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  }
+}

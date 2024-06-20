@@ -1,0 +1,83 @@
+// https://code.visualstudio.com/docs/getstarted/theme-color-reference
+
+// This theme uses the same syntax highlighting colors as
+// https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json
+
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Ramiro L Dark",
+  "include": "./dark_plus.json",
+  "colors": {
+    // Basic text color
+    // #d4d4d4 is used rather than #fff because it fits better with the other syntax colors, all of which are taken from the vscode dark plus theme.
+    "editor.foreground": "#d4d4d4",
+    "sideBarTitle.foreground": "#d4d4d4",
+    "sideBar.foreground": "#d4d4d4",
+    "statusBar.foreground": "#ccc",
+
+    // Tabs
+    "tab.activeForeground": "#fff",
+    "tab.unfocusedActiveForeground": "#fff",
+    "tab.inactiveForeground": "#9c9c9c",
+    "tab.unfocusedInactiveForeground": "#9c9c9c",
+    "tab.activeBackground": "#0f0f0f",
+    "tab.unfocusedActiveBorder": "#000",
+    "tab.inactiveBackground": "#0d0d0d",
+    "tab.activeBorder": "#000",
+    "tab.border": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
+
+    // Text selection
+    "editor.selectionBackground": "#264f78",
+    "editor.selectionHighlightBackground": "#3a4b5f",
+    "editor.inactiveSelectionBackground": "#3a4b5f",
+
+    // Find results
+    "editor.findMatchBackground": "#fa05",
+    "editor.findMatchHighlightBackground": "#fa05",
+    "editor.findMatchBorder": "#fe0",
+    "editor.findMatchHighlightBorder": "#fe0",
+    "editor.selectionHighlightBorder": "#fe0",
+
+    // Title bar (requires "window.titleBarStyle": "custom" in settings)
+    "titleBar.activeBackground": "#0f0f0f",
+    "titleBar.inactiveBackground": "#0f0f0f",
+    "titleBar.border": "#0f0f0f",
+    "titleBar.activeForeground": "#ccc",
+    "titleBar.inactiveForeground": "#ccc",
+
+    // Scrollbar
+    "scrollbarSlider.background": "#fff2",
+    "scrollbarSlider.hoverBackground": "#fff3",
+    "scrollbarSlider.activeBackground": "#fff4",
+
+    // Backgrounds
+    "editor.background": "#0f0f0f",
+    "statusBar.background": "#0f0f0f",
+    "statusBar.noFolderBackground": "#0f0f0f",
+    "editorGroup.emptyBackground": "#0f0f0f",
+    "editorGroup.dropBackground": "#0f0f0f",
+    "editorGroupHeader.noTabsBackground": "#0f0f0f",
+    "editorGroupHeader.tabsBackground": "#0d0d0d",
+    "activityBarBadge.background": "#0f0f0f",
+    "activityBar.background": "#0d0d0d",
+    "editorWhitespace.foreground": "#0f0f0f", // Whitespace on selection
+    "sideBar.background": "#0d0d0d",
+
+    // Misc lines and rulers
+    "editorRuler.foreground": "#222", // Enabled by "editor.rulers": [100],
+    "sideBar.border": "#000",
+    "editorGroup.border": "#000",
+    "editorIndentGuide.background": "#000", // Indent lines
+    "editorIndentGuide.activeBackground": "#000", // Active indent line
+    "statusBarItem.remoteBackground": "#1e88e5"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#648957"
+      }
+    }
+  ]
+}
