@@ -31,7 +31,5 @@
       Addressable="true" />
     <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md"
       Addressable="true" />
-    <Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="extension/LICENSE.txt"
-      Addressable="true" />
   </Assets>
 </PackageManifest>
