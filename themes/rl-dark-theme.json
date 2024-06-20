@@ -16,16 +16,16 @@
     "statusBar.foreground": "#ccc",
 
     // Tabs
-    "tab.activeForeground": "#fff",
-    "tab.unfocusedActiveForeground": "#fff",
-    "tab.inactiveForeground": "#9c9c9c",
-    "tab.unfocusedInactiveForeground": "#9c9c9c",
-    "tab.activeBackground": "#0f0f0f",
-    "tab.unfocusedActiveBorder": "#000",
-    "tab.inactiveBackground": "#0d0d0d",
-    "tab.activeBorder": "#000",
-    "tab.border": "#000",
-    "editorGroupHeader.tabsBorder": "#000",
+    "tab.activeForeground": "#ffffff",
+    "tab.unfocusedActiveForeground": "#cccccc",
+    "tab.inactiveForeground": "#999999",
+    "tab.unfocusedInactiveForeground": "#666666",
+    "tab.activeBackground": "#151515",
+    "tab.unfocusedActiveBorder": "#121212",
+    "tab.inactiveBackground": "#121212",
+    "tab.activeBorder": "#121212",
+    "tab.border": "#121212",
+    "editorGroupHeader.tabsBorder": "#121212",
 
     // Text selection
     "editor.selectionBackground": "#264f78",
@@ -40,11 +40,11 @@
     "editor.selectionHighlightBorder": "#fe0",
 
     // Title bar (requires "window.titleBarStyle": "custom" in settings)
-    "titleBar.activeBackground": "#0f0f0f",
-    "titleBar.inactiveBackground": "#0f0f0f",
-    "titleBar.border": "#0f0f0f",
-    "titleBar.activeForeground": "#ccc",
-    "titleBar.inactiveForeground": "#ccc",
+    "titleBar.activeBackground": "#151515",
+    "titleBar.inactiveBackground": "#151515",
+    "titleBar.border": "#151515",
+    "titleBar.activeForeground": "#cccccc",
+    "titleBar.inactiveForeground": "#999999",
 
     // Scrollbar
     "scrollbarSlider.background": "#fff2",
@@ -52,16 +52,16 @@
     "scrollbarSlider.activeBackground": "#fff4",
 
     // Backgrounds
-    "editor.background": "#0f0f0f",
-    "statusBar.background": "#0f0f0f",
-    "statusBar.noFolderBackground": "#0f0f0f",
-    "editorGroup.emptyBackground": "#0f0f0f",
-    "editorGroup.dropBackground": "#0f0f0f",
-    "editorGroupHeader.noTabsBackground": "#0f0f0f",
-    "editorGroupHeader.tabsBackground": "#0d0d0d",
-    "activityBar.background": "#0d0d0d",
-    "editorWhitespace.foreground": "#0f0f0f", // Whitespace on selection
-    "sideBar.background": "#0d0d0d",
+    "editor.background": "#151515",
+    "statusBar.background": "#151515",
+    "statusBar.noFolderBackground": "#151515",
+    "editorGroup.emptyBackground": "#151515",
+    "editorGroup.dropBackground": "#151515",
+    "editorGroupHeader.noTabsBackground": "#151515",
+    "editorGroupHeader.tabsBackground": "#121212",
+    "activityBar.background": "#121212",
+    "editorWhitespace.foreground": "#151515",
+    "sideBar.background": "#121212",
 
     // Misc lines and rulers
     "editorRuler.foreground": "#222", // Enabled by "editor.rulers": [100],
