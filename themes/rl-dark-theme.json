@@ -59,7 +59,6 @@
     "editorGroup.dropBackground": "#0f0f0f",
     "editorGroupHeader.noTabsBackground": "#0f0f0f",
     "editorGroupHeader.tabsBackground": "#0d0d0d",
-    "activityBarBadge.background": "#0f0f0f",
     "activityBar.background": "#0d0d0d",
     "editorWhitespace.foreground": "#0f0f0f", // Whitespace on selection
     "sideBar.background": "#0d0d0d",

@@ -1,9 +1,9 @@
 {
   "name": "vscode-ramiro-l-dark-theme",
-  "displayName": "Ramiro L Dark Theme",
-  "publisher": "ramirp-l",
-  "description": "Ramiro L Dark Theme",
-  "version": "1.0.0",
+  "displayName": "RL Dark Theme",
+  "publisher": "RamiroL",
+  "description": "RL Dark Theme",
+  "version": "1.0.2",
   "engines": {
     "vscode": "*"
   },
@@ -13,13 +13,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "ramiro-l",
+        "label": "RL Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/pitch-black-color-theme.json"
+        "path": "./themes/rl-dark-theme.json"
       }
     ]
   },
-  "icon": "icon.png",
   "galleryBanner": {
     "color": "#000",
     "theme": "dark"
