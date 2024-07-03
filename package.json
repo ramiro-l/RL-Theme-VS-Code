@@ -3,7 +3,8 @@
   "displayName": "RL Theme",
   "publisher": "RamiroL",
   "description": "RL Theme is a theme for Visual Studio Code.",
-  "version": "1.0.3",
+  "version": "1.0.0",
+  "icon": "logo.png",
   "engines": {
     "vscode": "*"
   },
