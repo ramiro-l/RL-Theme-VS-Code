@@ -8,7 +8,7 @@ A theme for Visual Studio Code that is inspired by the colors of the `Default Da
 
 > Use [Maple Font](https://github.com/subframe7536/maple-font).
 
-
+<video controls src="https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/video/theme.mp4?raw=true" title="Preview RL Theme"></video>
 
 ## Install
 
