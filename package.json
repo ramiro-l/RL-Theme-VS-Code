@@ -23,5 +23,9 @@
   "galleryBanner": {
     "color": "#000",
     "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramiro-l/RL-Theme-VS-Code"
   }
 }
