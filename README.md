@@ -1,4 +1,4 @@
-# [RL Theme | VS-Code](https://marketplace.visualstudio.com/items?itemName=...)
+# [RL Theme | VS-Code](https://marketplace.visualstudio.com/items?itemName=RamiroL.rl-theme)
 
 ## Description
 
@@ -19,3 +19,7 @@ Press `Ctrl+Shift+P` (or `Cmd+Shift+P`), select `Extensions: Install Extensions`
 ## Activate
 
 Press `Ctrl+Shift+P` (or `Cmd+Shift+P`), select `Preferences: Color Theme`, select `RL Theme`.
+
+## Url
+
+Visit the [Marketplace](https://marketplace.visualstudio.com/items?itemName=RamiroL.rl-theme) to download the theme.
