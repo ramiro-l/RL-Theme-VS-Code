@@ -6,11 +6,17 @@ A theme for Visual Studio Code that is inspired by the colors of the `Default Da
 
 ## Preview
 
-> Use [Maple Font](https://github.com/subframe7536/maple-font).
+![Preview RL Theme Js](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.js.png?raw=true)
 
-![Preview RL Theme](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.js.png?raw=true)
+![Preview RL Theme Py](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.py.png?raw=true)
 
-<video src="https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/video/theme.mp4?raw=true" title="Preview RL Theme"></video>
+![Preview RL Theme Rs](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.rs.png?raw=true)
+
+![Preview RL Theme C](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.c.png?raw=true)
+
+![Preview RL Theme Hs](https://github.com/ramiro-l/RL-Theme-VS-Code/blob/main/preview/img/example.hs.png?raw=true)
+
+> Use [Maple Font](https://github.com/subframe7536/maple-font) for a better experience. And active ligatures in the settings.
 
 ## Install
 
