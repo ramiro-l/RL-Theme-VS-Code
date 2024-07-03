@@ -1,8 +1,8 @@
 {
-  "name": "vscode-ramiro-l-dark-theme",
-  "displayName": "RL Dark Theme",
+  "name": "rl-theme",
+  "displayName": "RL Theme",
   "publisher": "RamiroL",
-  "description": "RL Dark Theme",
+  "description": "RL Theme is a theme for Visual Studio Code.",
   "version": "1.0.3",
   "engines": {
     "vscode": "*"
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RL Dark Theme",
+        "label": "RL Theme - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/rl-dark-theme.json"
+        "path": "./themes/rl-theme-dark.json"
       }
     ]
   },

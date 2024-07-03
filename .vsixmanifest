@@ -3,8 +3,8 @@
   xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="vscode-pitch-black-theme" Version="1.3.0" Publisher="ramiro-l" />
-    <DisplayName>RL Dark Theme</DisplayName>
-    <Description xml:space="preserve">RL Dark Theme</Description>
+    <DisplayName>RL Theme</DisplayName>
+    <Description xml:space="preserve">RL Theme</Description>
     <Tags>theme,color-theme,__web_extension</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>

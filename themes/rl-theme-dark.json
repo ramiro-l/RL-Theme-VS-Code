@@ -5,7 +5,7 @@
 
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Ramiro L Dark",
+  "name": "RL Theme - Dark",
   "include": "./dark_plus.json",
   "colors": {
     // Basic text color
@@ -73,9 +73,39 @@
   },
   "tokenColors": [
     {
-      "scope": "comment",
+      "scope": ["keyword", "keyword.control"],
       "settings": {
+        "fontStyle": "italic",
+        "fontWeight": "normal"
+      }
+    },
+    {
+      "scope": ["storage.type"],
+      "settings": {
+        "fontStyle": "bold",
+        "fontWeight": "normal"
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "fontStyle": "normal",
+        "fontWeight": "normal"
+      }
+    },
+    {
+      "scope": ["comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "fontWeight": "normal",
         "foreground": "#648957"
+      }
+    },
+    {
+      "scope": ["string", "string.quoted", "storage.modifier"],
+      "settings": {
+        "fontStyle": "normal",
+        "fontWeight": "normal"
       }
     }
   ]
